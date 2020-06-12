@@ -1,0 +1,275 @@
+body {
+	font-family: Avenir LT Std; 
+	font-size: 14px;
+	color: #000000;
+}
+
+
+header{
+	background-color: #FDDA2D;
+	padding: 20px 0;
+	position: absolute;
+	width: 100%;
+	z-index: 999999;
+}
+
+header img{
+	width: 100px;
+	padding-top: 20px;
+
+}
+
+#menu{
+	background-color: #FDDA2D;
+	padding-top: 5px;
+	padding-bottom: 5px; 
+}
+
+
+
+#bienvenidos{
+	padding: 380px;
+    background-image: url("../img/edgar-castrejon-bG5rhvRH0JM-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+	text-align: center; 
+	
+}
+
+#bienvenidos h1{
+	font-style: italic;
+    font-size: 70px;
+    font-weight: 700px;
+	text-align: center;
+	color: #fff;	
+}
+.btn-foodspot {
+	font-family: Helvetica Neue;
+background: linear-gradient(to left, #7c3fdb,#ff4040, #EEF33C); 
+	color: #FFFFFF;
+	text-transform: uppercase;
+	border-radius: 0px;
+	padding: 20px;
+	border: 0px;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+.btn-foodspot:hover{
+	background: linear-gradient(to left, #7c3fdb, #3370e7, #EEF33C );
+	transition: all 0.8s ease-in-out;
+}
+
+.navegacion{
+	width: 600px;
+	margin: 2px auto;
+}
+
+.navegacion ul{
+	list-style: none;
+} 
+
+.menu > li{
+	position: relative;
+	display: inline-block;
+}
+
+.menu > li > a{
+	display: block;
+	padding: 15px 25px;
+	color: #FFFFFF;
+	font-family: "Helvetica Neue";
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.menu li a:hover{
+	color:purple;
+	transition: all .3s;
+}
+
+.section{
+	padding: 60px 0;
+}
+
+.submenu{
+	position: absolute;
+	background:#FDDA2D;
+	width: 140%;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 1.5s;
+}
+
+.submenu li a{
+	display: block;
+	padding: 15px;
+	color: purple;
+	font-family: Helvetica Neue;
+	text-decoration: none;
+}
+
+.menu li:hover .submenu{
+	visibility: visible;
+	opacity: 1;
+}
+
+.submenu-dos{
+	position: absolute;
+	background:#FDDA2D;
+	width: 20%;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 1.5s;
+}
+
+.submenu-dos li a{
+	display: block;
+	padding: 15px;
+	color: purple;
+	font-family: Helvetica Neue;
+	text-decoration: none;
+}
+
+.menu li:hover .submenu-dos{
+	visibility: visible;
+	opacity: 1;
+}
+
+.texto-historia{
+	padding-top: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.texto-historia h2{
+	font-size: 60px;
+	font-weight: 900px;
+	
+}
+
+.texto-historia p{
+	font-size: 20px;
+	color: #000;
+	text-align: justify;
+}
+
+.carousel i{
+	font-size: 22px;
+	margin-bottom: 35px;
+}
+
+.carousel p{
+	font-size: 20px;
+	width: 70%;
+	margin: 0px auto 40px;
+}
+
+#historia img{
+	width: 100%;
+}
+
+footer{
+	padding: 20px;
+	background-color: #FDDA2D;
+}
+
+footer p{
+	color: #7B3996;
+}
+
+#about-us{
+	padding: 380px;
+    background-image: url("../img/fruit.jpg");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+	text-align: center; 
+	
+}
+
+#about-us h1{
+	font-style: italic;
+    font-size: 70px;
+    font-weight: 700;
+	text-align: center;
+	color: #FFFFFF;	
+}
+
+#about-us h2{
+	font-style: italic;
+    font-size: 30px;
+    font-weight: 300;
+	text-align: center;
+	color: #FCF9F9;	
+}
+
+#mision-vision img{
+	width: 100%;	
+}
+
+#carousel .carousel-item{
+	height: 400px; 
+}
+
+#carousel .carousel-caption{
+	display: grid;
+	align-items: center;
+	align-content: center;
+	height: 100%;
+}
+
+.letra-morada{
+	color:#7B3996
+}
+
+.texto-mision{
+	padding-top: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.texto-mision h2{
+	font-size: 60px;
+	font-weight: 900px;
+	
+}
+
+.texto-vision p{
+	font-size: 20px;
+	color: #000;
+	text-align: justify;
+}
+
+.texto-vision{
+	padding-top: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.texto-vision h2{
+	font-size: 60px;
+	font-weight: 900px;
+	
+	
+}
+
+.texto-mision p{
+	font-size: 20px;
+	color: #000;
+	text-align: justify;
+}
+
+
+h2{
+	color: #F15B57; 
+	font-weight: 900;
+}
+
+
+
+
+
+
+
