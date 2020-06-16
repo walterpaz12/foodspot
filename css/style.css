@@ -221,7 +221,7 @@ footer p{
 }
 
 .letra-morada{
-	color:#7B3996
+	color:#7B3996;
 }
 
 .texto-mision{
@@ -267,9 +267,95 @@ h2{
 	font-weight: 900;
 }
 
+#slides_vm .carousel-caption{
+	display: grid;
+	align-items:center;
+	align-content: center;
+    height: 100%;
+	font-family: Helvetica Neue;
+}
+
+#slides_vm h1{
+	font-family: Helvetica Neue;
+	color: #FCF7F7; 
+	font-weight: 900;
+	font-size: 90px;
+	
+	}
+
+#slides_vm h3{
+	font-family: Helvetica Neue;
+	color: #F85355; 
+	font-weight: 900;
+	
+	}
+
+.texto-historia-receta{
+	padding-top: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.texto-historia-receta h2{
+	font-size: 60px;
+	font-weight: 900px;
+	
+}
+
+.texto-historia-receta p{
+	font-size: 20px;
+	color: #000;
+	text-align: justify;
+}
+
+
+#sec-rec {
+	background-color: #fafafa;
+	text-align: center;
+	padding: 20px;	
+}
+
+	
+.subtitulo{
+	font-size: 20px;
+	margin-bottom: 40px;
+	width:40%;
+	margin:auto;
+	margin-bottom: 40px;
+	}
 
 
 
+#sec-rec h4{
+	font-size: 16px;
+	color: #000000;
+	font-weight: 800;
+	margin-bottom: 20px;
+	}
 
+.circulo{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	line-height: 100px;
+	/*border: 1px solid #DDDDDD;*/
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 5px 2px #dddd;
+	font: normal;
+	font-size: 40px;
+	color:purple;
+}
 
+.circulo:hover {
+box-shadow: 0px 0px 5px 2px #dddd;
+}
 
+    #sec-rec p{
+	font-size: 12px;
+	color: #000000;
+	font-weight: 800;
+	margin-bottom: 20px;
+	}
+	
