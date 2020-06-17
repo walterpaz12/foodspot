@@ -310,7 +310,7 @@ h2{
 
 
 #sec-rec {
-	background-color: #fafafa;
+	background-color: #FDDA2D;
 	text-align: center;
 	padding: 20px;	
 }
@@ -321,7 +321,7 @@ h2{
 	margin-bottom: 40px;
 	width:40%;
 	margin:auto;
-	margin-bottom: 40px;
+	
 	}
 
 
@@ -359,3 +359,10 @@ box-shadow: 0px 0px 5px 2px #dddd;
 	margin-bottom: 20px;
 	}
 	
+#historia{
+	background-color: #FDDA2D;
+}
+
+#carousel{
+	background-color: #FDDA2D;
+}
