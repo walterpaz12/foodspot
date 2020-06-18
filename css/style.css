@@ -366,3 +366,53 @@ box-shadow: 0px 0px 5px 2px #dddd;
 #carousel{
 	background-color: #FDDA2D;
 }
+
+
+#slides_videos .carousel-caption{
+	display: grid;
+	align-items:center;
+	align-content: center;
+    height: 100%;
+	font-family: Helvetica Neue;
+}
+
+#slides_videos h1{
+	font-family: Helvetica Neue;
+	color: #FCF7F7; 
+	font-weight: 900;
+	font-size: 90px;
+	
+	}
+
+
+#slides_videos h3{
+	font-family: Helvetica Neue;
+	color: #F85355; 
+	font-weight: 900;
+	
+	}
+
+
+.texto-jordi-receta{
+	padding-top: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.texto-jordi-receta h2{
+	font-size: 60px;
+	font-weight: 900px;
+	
+}
+
+.texto-jordi-receta p{
+	font-size: 20px;
+	color: #000;
+	text-align: justify;
+}
+
+#jordi{
+	
+	background-color: #FDDA2D;
+	padding-bottom: 10%;
+}
