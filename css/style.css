@@ -1,11 +1,12 @@
 body {
-	font-family: Avenir LT Std; 
+	font-family: 'Ubuntu', sans-serif;
 	font-size: 14px;
 	color: #000000;
 }
 
 
 header{
+	font-family: 'Ubuntu', sans-serif;
 	background-color: #FDDA2D;
 	padding: 20px 0;
 	position: absolute;
@@ -186,7 +187,7 @@ footer p{
 	background-position: bottom;
 	background-size: cover;
 	text-align: center; 
-	
+	font-family: 'Ubuntu', sans-serif;
 }
 
 #about-us h1{
@@ -203,6 +204,7 @@ footer p{
     font-weight: 300;
 	text-align: center;
 	color: #FCF9F9;	
+	font-family: 'Ubuntu', sans-serif;
 }
 
 #mision-vision img{
@@ -227,6 +229,7 @@ footer p{
 	background-position: bottom;
 	background-size: cover;
 	text-align: center; 
+	font-family: 'Ubuntu', sans-serif;
 	
 }
 
@@ -236,6 +239,7 @@ footer p{
     font-weight: 700;
 	text-align: center;
 	color: #7B3996;	
+	font-family: 'Ubuntu', sans-serif;
 }
 
 #tienda h2{
@@ -244,10 +248,12 @@ footer p{
     font-weight: 300;
 	text-align: center;
 	color: black;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 #utensilios{
 	padding: 100px 50px;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .letra-morada{
@@ -306,11 +312,12 @@ h2{
 	align-items:center;
 	align-content: center;
     height: 100%;
-	font-family: Helvetica Neue;
+	font-family: 'Ubuntu', sans-serif;
+	
 }
 
 #slides_vm h1{
-	font-family: Helvetica Neue;
+	font-family: 'Ubuntu', sans-serif;
 	color: #FCF7F7; 
 	font-weight: 900;
 	font-size: 90px;
@@ -318,7 +325,7 @@ h2{
 	}
 
 #slides_vm h3{
-	font-family: Helvetica Neue;
+	font-family: 'Ubuntu', sans-serif;
 	color: #F85355; 
 	font-weight: 900;
 	
@@ -347,6 +354,7 @@ h2{
 	background-color: #FDDA2D;
 	text-align: center;
 	padding: 20px;	
+	font-family: 'Ubuntu', sans-serif;
 }
 
 	
@@ -365,6 +373,7 @@ h2{
 	color: #000000;
 	font-weight: 800;
 	margin-bottom: 20px;
+	font-family: 'Ubuntu', sans-serif;
 	}
 
 .circulo{
@@ -395,10 +404,12 @@ box-shadow: 0px 0px 5px 2px #dddd;
 	
 #historia{
 	background-color: #FDDA2D;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 #carousel{
 	background-color: #FDDA2D;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 
@@ -407,22 +418,24 @@ box-shadow: 0px 0px 5px 2px #dddd;
 	align-items:center;
 	align-content: center;
     height: 100%;
-	font-family: Helvetica Neue;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 #slides_videos h1{
-	font-family: Helvetica Neue;
+	
 	color: #FCF7F7; 
 	font-weight: 900;
 	font-size: 90px;
+	font-family: 'Ubuntu', sans-serif;
 	
 	}
 
 
 #slides_videos h3{
-	font-family: Helvetica Neue;
+	
 	color: #F85355; 
 	font-weight: 900;
+	font-family: 'Ubuntu', sans-serif;
 	
 	}
 
