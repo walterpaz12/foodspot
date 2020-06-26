@@ -20,6 +20,14 @@ header img{
 
 }
 
+#utensilios p{
+	
+	font-size: 20px;
+	color: #000;
+	text-align: justify;
+	
+}
+
 #menu{
 	background-color: #FDDA2D;
 	padding-top: 5px;
@@ -463,3 +471,68 @@ box-shadow: 0px 0px 5px 2px #dddd;
 	background-color: #FDDA2D;
 	padding-bottom: 10%;
 }
+
+.form-group{
+	
+	margin-bottom: 5%;
+}
+
+.btn-submit:hover{
+	background: linear-gradient(to left, #7c3fdb, #3370e7, #EEF33C );
+	transition: all 0.8s ease-in-out;
+}
+
+.btn-submit{
+	background: linear-gradient(to left, #7c3fdb,#ff4040, #EEF33C); 
+	font-family: "Helvetica Neue",
+	}
+	
+form #contacto textarea{
+	background-color: #f1f2f3;
+	border-radius: 0;
+	padding: 20px;
+	border: 0;
+	font-size: 13px;
+	
+	}
+
+form #contacto h2{
+	color: #000;
+}
+
+form #contacto h1{
+	color:#000;
+	
+}
+
+#utensilios h3 {
+	
+font-style: oblique;
+font-weight: bolder
+}
+	
+
+#slides_vmcon .carousel-caption{
+	display: grid;
+	align-items:center;
+	align-content: center;
+    height: 100%;
+	font-family: 'Ubuntu', sans-serif;
+	
+}
+
+#slides_vmcon h1{
+	font-family: 'Ubuntu', sans-serif;
+	color: #FCF7F7; 
+	font-weight: 900;
+	font-size: 90px;
+	
+	}
+
+#slides_vmcon h3{
+	font-family: 'Ubuntu', sans-serif;
+	color: #F85355; 
+	font-weight: 900;
+	
+	}
+
